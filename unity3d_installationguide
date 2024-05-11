@@ -1,0 +1,59 @@
+Step 1: Download Unity Hub
+Visit the Unity Download Page:
+
+Go to Unity’s official download page.
+Click on the “Download Unity Hub” button.
+Install Unity Hub:
+
+Open the downloaded installer and follow the on-screen instructions to install Unity Hub on your system.
+Step 2: Install Unity Editor
+Open Unity Hub:
+
+Once installed, open Unity Hub from your applications or programs list.
+Create a Unity ID (if you don’t already have one):
+
+You’ll need a Unity ID to use Unity. You can create one directly from Unity Hub under the ‘Account’ section or by visiting the Unity ID webpage.
+License Activation:
+
+Navigate to the ‘Preferences’ menu in Unity Hub, then go to the ‘License Management’ tab.
+Click on ‘Activate New License’. For educational purposes, you can activate the Unity Personal plan, which is free if your revenue or funding does not exceed $100K in the last 12 months.
+Install the Unity Editor:
+
+Go to the ‘Installs’ tab in Unity Hub.
+Click on ‘Add’ and select the latest version of Unity suitable for your project needs (e.g., Unity 2020 LTS or Unity 2021 LTS for stability).
+During the installation setup, make sure to check the box next to ‘Microsoft Visual Studio Community’ to install Visual Studio as well.
+You might not need additional components for simple games, but ensure the following are checked:
+Microsoft Visual Studio Community 20XX
+WebGL Build Support (if planning any web deployment)
+Documentation (optional but recommended for beginners)
+Step 3: Install Visual Studio
+Installation with Unity:
+
+If you selected Visual Studio in the Unity installation steps, it should automatically install. Make sure you allow it to install the necessary components for Unity development during the Visual Studio setup process.
+Verify Installation:
+
+After installation, open Visual Studio to confirm it’s set up correctly. Visual Studio should configure itself for Unity development by default, including installing the Unity-specific workloads.
+Step 4: First Run and Setup
+Open Unity Hub:
+
+Navigate to the ‘Projects’ tab.
+Create a New Project:
+
+Click on ‘New’.
+Choose a template suitable for your project (such as ‘3D’ for basic 3D games).
+Name your project and select a location to save it.
+Click ‘Create’.
+Unity Editor:
+
+Unity will open with your new project loaded. Familiarize yourself with the interface: Scene view, Game view, Asset Store, Hierarchy, and Inspector panels.
+Verify Visual Studio Integration:
+
+Open any script from Unity, and it should open in Visual Studio. Ensure that IntelliSense (code completion feature) is working, which helps significantly with coding in C#.
+Step 5: Explore and Start Learning
+Explore Unity’s Learning Resources:
+
+Unity provides a wealth of tutorials and documentation. Encourage students to explore the Unity Learn platform for tutorials suited to their skill level.
+Begin Simple Projects:
+
+Start with simple projects to understand basic concepts such as scene setup, game objects, components, and scripting.
+This guide should help your students install and set up Unity with Visual Studio, ready for beginning their journey in 3D game development!
